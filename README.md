@@ -1,4 +1,5 @@
 # Util-Plugin
+<img width="747" height="128" alt="BigLogo" src="https://github.com/user-attachments/assets/6d29286d-4543-453c-a1cf-43f04c5e1e97" />
 
 Hey everyone!
 Plugin: [Encry's Utils](https://create.roblox.com/store/asset/98058081444017/Encrys-Utils)
