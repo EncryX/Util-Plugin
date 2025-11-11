@@ -1,4 +1,4 @@
-![BigLogo|690x118](upload://lvQMfs0EIyACJmfZnG7UmK9oyyR.png)
+<img width="747" height="128" alt="BigLogo" src="https://github.com/user-attachments/assets/0b5cb0e3-1e67-489f-b51f-e4330c5fe4b1" />
 
 Hey everyone!
 Plugin: [Encry's Utils](https://create.roblox.com/store/asset/98058081444017/Encrys-Utils)
