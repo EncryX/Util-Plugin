@@ -31,9 +31,9 @@ Any quality-of-life improvements or features you think would make it even better
 
 ### Latest Update:
 
-## V1.1.2
-- Added a bulk import feature (using [PromptSaveSelection](https://create.roblox.com/docs/reference/engine/classes/Plugin#PromptSaveSelection))
-- Added a "enable roblox insert service for assets" setting
+## V1.2.2
+- Added a new feature for codifying (still in beta)
+- Added some more libraries 
 - Overall improvements and bug fixes
 
 Latest updates found on [github](https://github.com/EncryX/Util-Plugin) and [marketplace](https://create.roblox.com/store/asset/98058081444017/Encrys-Utils)! Any of these 2 sources are official.
